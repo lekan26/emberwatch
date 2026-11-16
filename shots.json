@@ -1,0 +1,6 @@
+[
+  { "name": "1-start", "query": "?shot=start&seed=1" },
+  { "name": "2-play", "query": "?shot=play&seed=1" },
+  { "name": "4-build", "query": "?shot=build&seed=1" },
+  { "name": "3-end", "query": "?shot=end&seed=1" }
+]
